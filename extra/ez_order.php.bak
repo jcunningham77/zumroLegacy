@@ -1,0 +1,22 @@
+<?php 
+
+echo 'Hello World!'; 
+
+if ($_POST) {
+	echo 'if';
+
+	$to = "jcunningham77@gmail.com";
+	$subject = "Hi!";
+	$body = "Hi,\n\nHow are you?";
+	$headers = "From: sender@example.com\r\n" .  "X-Mailer: php";
+	if (mail($to, $subject, $body,$headers)) {
+	  echo("<p>Message successfully sent!</p>");
+	 } else {
+	  echo("<p>Message delivery failed...</p>");
+	 }
+
+} else {
+	echo 'else';
+}
+
+?> 

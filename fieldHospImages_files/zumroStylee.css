@@ -1,0 +1,75 @@
+.navText {
+	PADDING-LEFT: 12px; FONT-SIZE: 12px; COLOR: #70705a; FONT-FAMILY: "Gill Sans", Arial, sans-serif
+}
+.navText A:link {
+	COLOR: #70705a; TEXT-DECORATION: none
+}
+.navText A:visited {
+	COLOR: #70705a; TEXT-DECORATION: none
+}
+.navText A:active {
+	COLOR: #70705a; TEXT-DECORATION: none
+}
+.navText A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.testClass {
+	FONT-SIZE: 12px; COLOR: #70705a; LINE-HEIGHT: 18px; FONT-FAMILY: "Gill Sans", Arial, sans-serif; BACKGROUND-COLOR: #70705a
+}
+.tableBorder {
+	BORDER-RIGHT: #e0e0b4 1px solid; BORDER-TOP: #e0e0b4 1px solid; BORDER-LEFT: #e0e0b4 1px solid; BORDER-BOTTOM: #e0e0b4 1px solid
+}
+.tableText {
+	FONT-SIZE: 10px; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: "Gill Sans", Arial, sans-serif
+}
+.mainBodyText {
+	FONT-SIZE: 12px; LIST-STYLE-IMAGE: url(../images/image_bullet01.jpg); COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: "Gill Sans", Arial, sans-serif; LIST-STYLE-TYPE: circle
+}
+.mainBodyText A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.mainBodyText A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.mainBodyText A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.mainBodyText A:hover {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+.titleText {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 16px; FONT-FAMILY: "Gill Sans", Arial, sans-serif
+}
+.medBlackText {
+	FONT-SIZE: 21px; COLOR: #70705a; FONT-FAMILY: "Gill Sans", Arial, sans-serif
+}
+.medBlackText A:link {
+	COLOR: #70705a; TEXT-DECORATION: none
+}
+.medBlackText A:visited {
+	COLOR: #70705a; TEXT-DECORATION: none
+}
+.medBlackText A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.medBlackText A:hover {
+	COLOR: #000000; BACKGROUND-COLOR: #e0e0b4; TEXT-DECORATION: none
+}
+.topNavText {
+	PADDING-LEFT: 10px; FONT-SIZE: 11px; COLOR: #70705a; FONT-FAMILY: "Gill Sans", Arial, sans-serif
+}
+.topNavText A:link {
+	COLOR: #70705a; TEXT-DECORATION: none
+}
+.topNavText A:visited {
+	COLOR: #70705a; TEXT-DECORATION: none
+}
+.topNavText A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.topNavText A:hover {
+	COLOR: #000000; BACKGROUND-COLOR: #e0e0b4; TEXT-DECORATION: none
+}
+.imageBorder {
+	BORDER-RIGHT: #70705a 5px solid; BORDER-TOP: #70705a 5px solid; BORDER-LEFT: #70705a 5px solid; BORDER-BOTTOM: #70705a 5px solid
+}

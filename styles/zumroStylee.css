@@ -1,0 +1,139 @@
+.navText {
+	font-family: "Gill Sans", Arial, sans-serif;
+	font-size: 12px;
+	color: #70705A;
+	padding-left: 12px;
+}
+.navText a:link {color: #70705A;text-decoration: none}
+.navText a:visited {color: #70705A;text-decoration: none}
+.navText a:active {color: #70705A;text-decoration: none}
+.navText a:hover {color: #000000;text-decoration: underline}
+.testClass {
+	font-family: "Gill Sans", Arial, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #70705A;
+	background-color: #70705A;
+}
+.tableBorder {
+	border: 1px solid E0E0B4;
+}
+.tableText {
+	font-family: "Gill Sans", Arial, sans-serif;
+	font-size: 10px;
+	line-height: 18px;
+	color: #000000;
+}
+.mainBodyText {
+	font-family: "Gill Sans", Arial, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #000000;
+	list-style-type: circle;
+	list-style-image: url(../images/image_bullet01.jpg);
+}
+
+.mainPopupHeader {
+	font-family: "Gill Sans", Arial, sans-serif;
+	font-size: 18px;
+	line-height: 18px;
+	color: #000000;
+	list-style-type: circle;
+	list-style-image: url(../images/image_bullet01.jpg);
+}
+
+.mainPopupBodyText1 {
+	font-family: "Gill Sans", Arial, sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+	color: #000000;
+	list-style-type: circle;
+	list-style-image: url(../images/image_bullet01.jpg);
+}
+
+.mainPopupBodyText2 {
+	font-family: "Gill Sans", Arial, sans-serif;
+	font-size: 13px;
+	line-height: 18px;
+	color: #000000;
+	list-style-type: circle;
+	list-style-image: url(../images/image_bullet01.jpg);
+}
+
+.mainPopupBodyText1 a:link {color: #000000;text-decoration: underline}       
+.mainPopupBodyText1 a:visited {color: #000000;text-decoration: underline}    
+.mainPopupBodyText1 a:active {color: #000000;text-decoration: underline}     
+.mainPopupBodyText1 a:hover {color: #666666;text-decoration: underline} 
+
+
+
+.mainPopupBodyText {
+	font-family: "Gill Sans", Arial, sans-serif;
+	font-size: 10px;
+	line-height: 18px;
+	color: #000000;
+	list-style-type: circle;
+	list-style-image: url(../images/image_bullet01.jpg);
+}
+
+
+
+.mainBodyTextUnderlined {
+	font-family: "Gill Sans", Arial, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #000000;
+	list-style-type: circle;
+	list-style-image: url(../images/image_bullet01.jpg);
+	text-decoration: underline;
+}
+
+.mainBodyTextItalic {
+	font-family: "Gill Sans", Arial, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #000000;
+	list-style-type: circle;
+	list-style-image: url(../images/image_bullet01.jpg);
+	font-style:italic; 
+}
+
+
+.mainBodyText a:link {color: #000000;text-decoration: none}
+.mainBodyText a:visited {color: #000000;text-decoration: none}
+.mainBodyText a:active {color: #000000;text-decoration: none}
+.mainBodyText a:hover {color: #666666;text-decoration: underline}
+.mainBodyTextUnderlined a:link {color: #666666;text-decoration: underline}
+.mainBodyTextUnderlined a:visited {color: #666666;text-decoration: underline}
+.mainBodyTextUnderlined a:active {color: #666666;text-decoration: underline}
+.mainBodyTextUnderlined a:hover {color: #666666;text-decoration: underline}
+.titleText {
+	font-family: "Gill Sans", Arial, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 16px;
+}
+.medBlackText {
+	font-family: "Gill Sans", Arial, sans-serif;
+	font-size: 21px;
+	color: #70705A;
+}
+.medBlackText a:link {color: #70705A;text-decoration: none}
+.medBlackText a:visited {color: #70705A;text-decoration: none}
+.medBlackText a:active {color: #000000;text-decoration: none}
+.medBlackText a:hover {color: #000000;	background-color: #E0E0B4; text-decoration: none}
+
+.topNavText {
+	font-family: "Gill Sans", Arial, sans-serif;
+	font-size: 11px;
+	color: #70705A;
+	padding-left: 10px;
+}
+.topNavText a:link {color: #70705A;text-decoration: none}
+.topNavText a:visited {color: #70705A;text-decoration: none}
+.topNavText a:active {color: #000000;text-decoration: none}
+.topNavText a:hover {color: #000000;	background-color: #E0E0B4; text-decoration: none}
+.imageBorder {
+	border: 5px solid #70705A;
+}
